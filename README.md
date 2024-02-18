@@ -1,2 +1,2 @@
-# CalculateArea
-Calculates the Area of a Room
+# Informatics1_Java
+First Year Java Programs
